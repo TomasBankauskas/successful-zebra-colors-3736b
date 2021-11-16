@@ -447,7 +447,7 @@ sections:
           - mt-0
           - mb-6
       text:
-        textAlign: left
+        textAlign: center
         margin:
           - mt-0
           - mb-8
