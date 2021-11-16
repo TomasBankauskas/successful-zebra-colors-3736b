@@ -31,7 +31,7 @@
     "complementary": "#FAF0B4",
     "complementaryContent": "#000000",
     "complementaryAlt": "#EDF2F6",
-    "complementaryAltContent": "#ffffff",
+    "complementaryAltContent": "#000000",
     "buttonPrimary": {
         "weight": "normal",
         "case": "uppercase",
