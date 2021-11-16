@@ -133,7 +133,7 @@
         .sb-input,
         .sb-select,
         .sb-textarea {
-            @apply border-neutral placeholder-neutral-content placeholder-opacity-70;
+            @apply border-neutral-content placeholder-neutral-content placeholder-opacity-70;
         }
         .sb-component-button-primary {
             @apply bg-neutral border-neutral text-white;
