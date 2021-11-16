@@ -147,6 +147,9 @@
         .sb-card {
             @apply bg-secondary text-secondary-content;
         }
+                .sb-card {
+            @apply bg-secondary text-secondary-content;
+        }
     }
     .colors-f {
         @apply bg-secondary text-body;
