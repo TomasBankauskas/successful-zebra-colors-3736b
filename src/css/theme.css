@@ -145,7 +145,7 @@
             @apply before:bg-neutral;
         }
         .sb-card {
-            @apply bg-secondary text-;
+            @apply bg-secondary text-sec;
         }
     }
     .colors-f {
