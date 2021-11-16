@@ -163,6 +163,7 @@ sections:
         url: /
         style: secondary
         showIcon: true
+        icon: arrowRight
     feature:
       type: ImageBlock
       url: /images/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg
