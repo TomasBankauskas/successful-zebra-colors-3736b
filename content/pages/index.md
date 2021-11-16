@@ -162,6 +162,7 @@ sections:
         label: Learn More
         url: /
         style: secondary
+        showIcon: true
     feature:
       type: ImageBlock
       url: /images/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg
