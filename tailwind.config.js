@@ -11,7 +11,7 @@ module.exports = {
                 primary: themeStyle.primary,
                 'primary-content': themeStyle.primaryContent,
                 secondary: themeStyle.secondary,
-                'secondar-content': themeStyle.secondaryContent,
+                'secondary-content': themeStyle.secondaryContent,
                 neutral: themeStyle.neutral,
                 'neutral-content': themeStyle.neutralContent,
                 complementary: themeStyle.complementary,
