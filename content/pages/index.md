@@ -509,7 +509,6 @@ sections:
     name: Johnna Doe
     title: Product Marketing Manager at Acme
     backgroundImage:
-      url: /images/iPhone.jpg
       altText: Product Marketing Manager Quote
     styles:
       self:
