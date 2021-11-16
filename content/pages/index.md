@@ -346,7 +346,7 @@ sections:
           isRequired: false
           width: full
           type: EmailFormControl
-                - type: CheckboxFormControl
+        - type: CheckboxFormControl
           name: updates
           label: Sign me up to receive updates
           width: full  
