@@ -452,13 +452,9 @@ sections:
           - mb-8
   - elementId: ''
     colors: colors-c
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      ## “We sometimes write things. You should read it, it might shed some
+      light on why we’re doing what we’re doing”
     styles:
       self:
         height: auto
