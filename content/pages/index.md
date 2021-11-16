@@ -346,6 +346,7 @@ sections:
           isRequired: false
           width: full
           type: EmailFormControl
+          
       submitLabel: Send Message
     styles:
       self:
