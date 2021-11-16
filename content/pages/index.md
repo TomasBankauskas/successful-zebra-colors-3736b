@@ -161,7 +161,7 @@ sections:
       - type: Button
         label: Learn More
         url: /
-        style: secondary
+        style: link
         showIcon: true
         icon: arrowRight
     feature:
