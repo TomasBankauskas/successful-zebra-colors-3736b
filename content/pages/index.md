@@ -107,7 +107,7 @@ sections:
       submitLabel: Send Message
     feature:
       type: ImageBlock
-      url: /images/contact.png
+      url: /images/annie-spratt-g9KFpAfQ5bc-unsplash.jpg
       altText: Contact form image
     styles:
       self:
