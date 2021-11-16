@@ -452,7 +452,7 @@ sections:
           - mt-0
           - mb-8
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     quote: >
       ### “It’s great to see someone taking action while still maintaining a
       sustainable fish supply to home cooks.”
