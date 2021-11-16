@@ -147,7 +147,7 @@
         .sb-card {
             @apply bg-secondary text-secondary-content;
         }
-        .sb-card {
+        .sb-card h3 {
             @apply bg-secondary text-secondary-content;
         }
     }
