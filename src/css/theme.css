@@ -46,7 +46,7 @@
             @apply border-primary placeholder-primary placeholder-opacity-50;
         }
         .sb-component-button-primary {
-            @apply bg-primary border-primary text-body;
+            @apply bg-primary border-primary text-primary-content;
         }
         .sb-component-button-secondary {
             @apply border-neutral text-body;
