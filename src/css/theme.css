@@ -148,7 +148,7 @@
             @apply bg-secondary text-secondary-content;
         }
         .sb-card h3 {
-            @apply bg-secondary text-secondary-content;
+            @apply text-secondary-content;
         }
     }
     .colors-f {
