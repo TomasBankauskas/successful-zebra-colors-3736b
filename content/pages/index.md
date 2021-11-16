@@ -489,7 +489,7 @@ sections:
           - mt-0
           - mb-6
       text:
-        textAlign: center
+        textAlign: left
         margin:
           - mt-0
           - mb-0
