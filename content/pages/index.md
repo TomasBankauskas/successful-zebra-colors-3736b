@@ -461,7 +461,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-    title: This Is A Big Hero Headline
+    title: 'Since I started using this app, I’m really using my phone more often.'
     subtitle: The section subtitle
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
