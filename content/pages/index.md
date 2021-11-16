@@ -339,7 +339,7 @@ sections:
           - mb-0
   - elementId: ''
     variant: variant-b
-    colors: colors-f
+    colors: colors-e
     actions:
       - type: Button
         label: View all
