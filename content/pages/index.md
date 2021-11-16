@@ -340,10 +340,6 @@ sections:
       destination: ''
       action: /.netlify/functions/submission_created
       fields:
-        - type: CheckboxFormControl
-          name: updates
-          label: Sign me up to receive updates
-          width: full
         - name: lorem-ipsum
           label: Name
           placeholder: Your name
