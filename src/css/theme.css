@@ -139,7 +139,7 @@
             @apply bg-neutral border-neutral text-white;
         }
         .sb-component-button-secondary {
-            @apply border-neutral text-neutral;
+            @apply border-neutral text-neutral-content;
         }
         .sb-divider {
             @apply before:bg-neutral;
