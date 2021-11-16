@@ -80,7 +80,6 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-      url: /images/about.jpg
   - elementId: contact-form
     colors: colors-e
     title: Contact us
