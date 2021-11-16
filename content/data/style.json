@@ -29,7 +29,7 @@
     "neutral": "#282828",
     "neutralContent": "#ffffff",
     "complementary": "#FAF0B4",
-    "complementaryContent": "#ffffff",
+    "complementaryContent": "#000000",
     "complementaryAlt": "#fffde2",
     "complementaryAltContent": "#ffffff",
     "buttonPrimary": {
