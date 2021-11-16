@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
-    colors: colors-f
+    colors: colors-a
     title: 'Love where you work, because work loves you'
     text: >
       One platform, one community, getting to the bottom line of everything
@@ -349,7 +349,7 @@ sections:
         - type: CheckboxFormControl
           name: updates
           label: Sign me up to receive updates
-          width: full  
+          width: full
       submitLabel: Send Message
     styles:
       self:
