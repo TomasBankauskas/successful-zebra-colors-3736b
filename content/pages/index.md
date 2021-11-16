@@ -346,7 +346,10 @@ sections:
           isRequired: false
           width: full
           type: EmailFormControl
-          
+                - type: CheckboxFormControl
+          name: updates
+          label: Sign me up to receive updates
+          width: full  
       submitLabel: Send Message
     styles:
       self:
