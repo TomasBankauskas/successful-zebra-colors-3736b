@@ -73,7 +73,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: contact-form
-    colors: colors-c
+    colors: colors-e
     title: Contact us
     text: We look forward to hearing from you.
     form:
